@@ -56,8 +56,3 @@ The purpose of this assignment is to understand and implement core data structur
 
 🚀 Learned to write clean, optimized, and reusable code for practical applications.
 
-
-
-
-Description :
-This Data Structure assignment demonstrates fundamental concepts including linear and binary searching for efficient data retrieval. It implements array operations such as insertion and deletion to manipulate data dynamically. The assignment also covers sorting techniques: Bubble, Insertion, Selection, Radix, and Quick sort, highlighting their step-by-step working. Additionally, it showcases array multiplication for combining and processing datasets. Each algorithm is implemented in a clear and concise manner for better understanding. This project serves as a practical guide to core data structure operations and algorithmic problem-solving.
