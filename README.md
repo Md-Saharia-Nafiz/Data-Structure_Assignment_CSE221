@@ -55,7 +55,3 @@ The purpose of this assignment is to understand and implement core data structur
 ✍️ Improved problem-solving, logical thinking, and coding efficiency.
 
 🚀 Learned to write clean, optimized, and reusable code for practical applications.
-
-
-Foobar
-Foobar is a Python library for dealing with word pluralization.
