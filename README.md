@@ -1,4 +1,4 @@
-##Assignment Title: Data Structure_Assignment_CSE221
+Assignment Title: Data Structure_Assignment_CSE221
 
 This repository contains my Data Structure assignment using C++. Here I implemented Linear & Binary Searching and Array Insertion & Deletion. It also includes sorting algorithms like Bubble, Insertion, Selection, Radix, and Quick Sort. Array Multiplication is added to practice basic data structure concepts.
 
